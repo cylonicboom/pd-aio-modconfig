@@ -45,7 +45,16 @@ stage 0x24 {
 
 
 
-# // case STAGE_24:
-# // case STAGE_EXTRA18:
-# // case STAGE_EXTRA19:
-# // case STAGE_EXTRA26:
+
+# Tawfret Ruins
+stage 0x53 {
+}
+
+# Targitzen's Temple
+stage 0x54 {
+}
+
+# War Colors
+stage 0x5b {
+}
+

@@ -8,3 +8,20 @@
 # Steel Mill by Garabuyo & Sogun
 # Tunnels by Trevor
 # Junkyard by Comet
+
+# Junkyard
+stage 0x55 { 
+}
+
+# Steel Mill
+stage 0x56 { 
+}
+
+# Mall
+stage 0x57 { 
+}
+
+# Tunnels
+stage 0x58 { 
+}
+

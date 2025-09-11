@@ -1,3 +1,11 @@
+# Mod: Friends of Joanna
+# stage fixes for Friends of Joanna
+# Author: Catherine Reprobate
+
+
+# Setup files generated from https://github.com/cylonicboom/pd-friends-of-joanna/tree/fojo-ailists (based on N64 / master branch)
+
+
 # investigation
 stage 0x33 {
   setupfile "UsetupearZ"

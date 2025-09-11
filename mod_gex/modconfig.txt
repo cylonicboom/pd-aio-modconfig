@@ -84,32 +84,100 @@ stage 0x14 {
 }
 
 
+# Grand Library
+stage 0x50 {
+}
 
-# // case STAGE_TEST_SILO:
-# // case STAGE_TEST_LAM:
-# // case STAGE_TEST_MP8:
-# // case STAGE_TEST_MP14:
-# // case STAGE_TEST_MP16:
-# // case STAGE_TEST_MP17:
-# // case STAGE_TEST_MP18:
-# // case STAGE_TEST_MP19:
-# // case STAGE_TEST_MP20:
-# // case STAGE_EXTRA1:
-# // case STAGE_EXTRA2:
-# // case STAGE_EXTRA3:
-# // case STAGE_EXTRA4:
-# // case STAGE_EXTRA5:
-# // case STAGE_EXTRA6:
-# // case STAGE_EXTRA7:
-# // case STAGE_EXTRA8:
-# // case STAGE_EXTRA9:
-# // case STAGE_EXTRA10:
-# // case STAGE_EXTRA11:
-# // case STAGE_EXTRA12:
-# // case STAGE_EXTRA13:
-# // case STAGE_EXTRA14:
-# // case STAGE_EXTRA15:
-# // case STAGE_EXTRA16:
-# // case STAGE_EXTRA17:
-# // case STAGE_EXTRA24:
-# // case STAGE_EXTRA25:
+# Cliff Base
+stage 0x40 {
+}
+
+# Streets
+stage 0x46 {
+}
+
+# Archives BZ
+stage 0x48 {
+}
+
+
+# Cradle
+stage 0x4a {
+}
+
+# Labyrinth
+stage 0x4b {
+}
+
+# Citadel
+stage 0x4c {
+}
+
+# Frigate
+stage 0x05 {
+}
+
+# Complex
+stage 0x06 {
+}
+
+# Archives
+stage 0x08 {
+}
+
+# Aztec
+stage 0x0a {
+}
+
+# Temple
+stage 0x0b {
+}
+
+# Iclicle Pyramid
+stage 0x0c {
+}
+
+# Caves
+stage 0x0d {
+}
+
+# Library
+stage 0x0e {
+}
+
+# Facility
+stage 0x0f {
+}
+
+# Caverns
+stage 0x11 {
+}
+
+# Basement
+stage 0x12 {
+}
+
+# Egyptian
+stage 0x13 {
+}
+
+# Stack
+stage 0x15 {
+}
+
+# Runway
+stage 0x51 {
+}
+
+# Control
+stage 0x52 {
+}
+
+# Paradox or Rogue?
+stage 0x59 {
+}
+
+# Paradox or Rogue?
+stage 0x5a {
+}
+
