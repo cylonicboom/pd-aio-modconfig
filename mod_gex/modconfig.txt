@@ -181,3 +181,71 @@ stage 0x59 {
 stage 0x5a {
 }
 
+
+texture 0x073c {
+  surfacetype 0
+}
+
+texture 0x073d{
+  surfacetype 0
+}
+
+texture 0x073e{
+  soundsurfacetype 3
+}
+
+texture 0x073f {
+  soundsurfacetype 3
+}
+
+texture 0x0740 {
+  soundsurfacetype 3
+}
+
+texture 0x0741 {
+  soundsurfacetype 3
+}
+
+texture 0x0745 {
+  surfacetype 0
+}
+texture 0x0746 {
+  soundsurfacetype 5
+  surfacetype 5
+}
+
+# iclice pyramid
+texture 0x0bde {
+  surfacetype 4
+  soundsurfacetype 4
+}
+texture 0x06ff {
+  surfacetype 0
+}
+texture 0x0716 {
+  surfacetype 0
+  soundsurfacetype 0
+}
+
+texture 0x0a16 {
+  surfacetype 0
+  soundsurfacetype 0
+
+}
+texture 0x0a17 {
+  surfacetype 0
+  soundsurfacetype 0
+}
+texture 0x0208 {
+  surfacetype 0
+  soundsurfacetype 0
+}
+
+texture 0x06fc {
+  surfacetype 0
+}
+
+texture 0x065a {
+  surfacetype 3
+  soundsurfacetype 3
+}

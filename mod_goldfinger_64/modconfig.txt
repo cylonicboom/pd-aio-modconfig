@@ -25,3 +25,8 @@ stage 0x57 {
 stage 0x58 { 
 }
 
+texture 0x0281 {
+    surfacetype 0
+    soundsurfacetype 0
+}
+
