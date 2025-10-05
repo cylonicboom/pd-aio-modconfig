@@ -33,6 +33,7 @@
 # v9: Replaced Skedar and Dr. Carroll Models last version by Wreck. Thank you so much, Wreck. (April 10, 2025)
 #     Merged Atari-Dude mod files. Skedar model texture conflict resolved. Thank you so much, Atari-Dude.
 # v10: Merged Atari-Dude mod files (July 20, 2025)
+# v11: Added stage and texture entries (September 11, 2025) - Catherine Reprobate 
 
 # Playable:
 # - Temple
